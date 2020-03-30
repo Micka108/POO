@@ -1,5 +1,3 @@
-
-
 import dynamique.VoitureFactory; 
 import voiture.Surveillable; 
 import voiture.Voiture; 
